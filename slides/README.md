@@ -1,1 +1,1 @@
-Slides for RL for Inventory workshop
+Slides for lecture portions of the workshop. 
